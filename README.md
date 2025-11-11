@@ -68,7 +68,7 @@ Librerías estándar de Python (no requiere instalación adicional):
 
 ### 🟦 Listas
 ```python
-paises = cargar_paises(UBICACION_DATA)
+paises =[]
 ```
 
 ### 🟦 Diccionarios
@@ -180,5 +180,3 @@ Como mejora futura, se podría agregar manejo de excepciones más avanzado y una
 - Material de Cátedra de la materia Programación 1
 ---
 
-## 🎥 Enlaces
-- **Video de presentación:** *(Agregar link una vez publicado)*  
