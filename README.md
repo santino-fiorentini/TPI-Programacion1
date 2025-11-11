@@ -37,7 +37,7 @@ El objetivo principal es aplicar los conceptos vistos en la materia:
 📁 Proyecto-TPI-Paises/
 ├── Capturas de Pantalla                # Carpeta con capturas de ejecución
 ├── paises_base.csv                     # Dataset base de países
-├── Parte Teórica - parte-teorica.docx  # Informe teórico
+├── TPI - Paises.pdf					# Informe teórico
 ├── TPI - Paises.py                     # Programa principal
 └── README.md                           # Documento unificado
 ```
