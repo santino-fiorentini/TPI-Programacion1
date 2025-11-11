@@ -67,7 +67,7 @@ Librerías estándar de Python (no requiere instalación adicional):
 
 ### 🟦 Listas
 ```python
-paises =[]
+paises = cargar_paises(UBICACION_DATA)
 ```
 
 ### 🟦 Diccionarios
