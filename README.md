@@ -6,13 +6,12 @@
 ### 🏫 Datos de la Universidad y la Cátedra
 **Carrera:** Tecnicatura Universitaria en Programación  
 **Materia:** Programación I  
-**Comisiones:** 2 y 4  
 **Coordinador:** Alberto Cortez  
 **Profesores:** Oscar Londero (Comisión 2) | Ana Mutti (Comisión 4)
 
 ---
 
-### 👥 Integrantes
+### 👥 Integrantes del grupo 145
 | Nombre | Comisión |
 |---------|-----------|
 | **Facundo Bailo** | Comisión 2 |
