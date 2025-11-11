@@ -36,11 +36,10 @@ El objetivo principal es aplicar los conceptos vistos en la materia:
 ## ⚙️ Estructura del proyecto
 ```
 📁 Proyecto-TPI-Paises/
-├── TPI - Paises.py                     # Programa principal
+├── Capturas de Pantalla                # Carpeta con capturas de ejecución
 ├── paises_base.csv                     # Dataset base de países
 ├── Parte Teórica - parte-teorica.docx  # Informe teórico
-├── diagrama_flujo_tpi.jpg              # Diagrama del flujo principal
-├── capturas/                           # Carpeta con capturas de ejecución
+├── TPI - Paises.py                     # Programa principal
 └── README.md                           # Documento unificado
 ```
 
@@ -178,13 +177,7 @@ Como mejora futura, se podría agregar manejo de excepciones más avanzado y una
 ---
 
 ## 📘 Fuentes bibliográficas
-- Python Software Foundation. *The Python Tutorial – Data Structures.*  
-  https://docs.python.org/3/tutorial/datastructures.html  
-- Python Software Foundation. *csv — CSV File Reading and Writing.*  
-  https://docs.python.org/3/library/csv.html  
-- Python Software Foundation. *Built-in Functions (sorted, sum, len).*  
-  https://docs.python.org/3/library/functions.html  
-
+- Material de Cátedra de la materia Programación 1
 ---
 
 ## 🎥 Enlaces
